@@ -107,7 +107,7 @@ You can ignore this for now or optionally explore [LangGraph](https://langchain-
 
 ## 🙋‍♂️ Author
 
-**Bhuvan M**  
+**Bindushree s n**  
 _Maharaja Institute of Technology, CSE-AI Dept._
 
 ---
